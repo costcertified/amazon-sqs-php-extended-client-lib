@@ -25,5 +25,5 @@ composer require e0ipso/amazon-sqs-php-extended-client-lib
 * This library is inspired by the [very similar Java library](https://github.com/awslabs/amazon-sqs-java-extended-client-lib).
 
 ## Feedback
-* Give us feedback [here](https://github.com/e0ipso/amazon-sqs-php-extended-client-lib/issues).
+* Give us feedback [here](https://github.com/costcertified/amazon-sqs-php-extended-client-lib/issues).
 * If you'd like to contribute a new feature or bug fix, we'd love to see Github pull requests from you.
